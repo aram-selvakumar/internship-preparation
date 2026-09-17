@@ -2,19 +2,19 @@
 
 ## 1. Python
 
-- [ ] Variables and data types
-- [ ] Lists, dictionaries, tuples and sets
-- [ ] Conditions and loops
-- [ ] Functions
-- [ ] Classes and objects
-- [ ] Exception handling
-- [ ] Reading and writing files
-- [ ] JSON
-- [ ] REST APIs
-- [ ] HTTP requests
-- [ ] Libraries and packages
-- [ ] Virtual environments
-- [ ] Git and GitHub
+- [x] Variables and data types
+- [x] Lists, dictionaries, tuples and sets
+- [x] Conditions and loops
+- [x] Functions
+- [x] Classes and objects
+- [x] Exception handling
+- [x] Reading and writing files
+- [x] JSON
+- [x] REST APIs
+- [x] HTTP requests
+- [x] Libraries and packages
+- [x] Virtual environments
+- [x] Git and GitHub
 - [ ] Basic debugging
 
 ### Python Practical
@@ -28,59 +28,59 @@
 
 ## 2. LLM Fundamentals
 
-- [ ] What is an LLM?
-- [ ] What is a token?
-- [ ] What is a prompt?
-- [ ] What is a context window?
-- [ ] What is an embedding?
-- [ ] What is inference?
-- [ ] What is hallucination?
-- [ ] What is temperature?
-- [ ] What is structured output?
-- [ ] What is function/tool calling?
-- [ ] What is an LLM API?
-- [ ] LLM vs traditional software application
+- [x] What is an LLM?
+- [x] What is a token?
+- [x] What is a prompt?
+- [x] What is a context window?
+- [x] What is an embedding?
+- [x] What is inference?
+- [x] What is hallucination?
+- [x] What is temperature?
+- [x] What is structured output?
+- [x] What is function/tool calling?
+- [x] What is an LLM API?
+- [x] LLM vs traditional software application
 
 
 ## 3. RAG
 
-- [ ] Why RAG is required
-- [ ] What are embeddings?
-- [ ] What is a vector database?
-- [ ] Document chunking
-- [ ] Similarity search
-- [ ] Retrieval
-- [ ] Context injection
-- [ ] RAG vs normal prompting
-- [ ] RAG vs fine-tuning
-- [ ] Basic RAG evaluation
-- [ ] Poor retrieval problems
-- [ ] Hallucination problems
+- [x] Why RAG is required
+- [x] What are embeddings?
+- [x] What is a vector database?
+- [x] Document chunking
+- [x] Similarity search
+- [x] Retrieval
+- [x] Context injection
+- [x] RAG vs normal prompting
+- [x] RAG vs fine-tuning
+- [x] Basic RAG evaluation
+- [x] Poor retrieval problems
+- [x] Hallucination problems
 
 ### RAG Practical
-- [ ] Create a document knowledge base
-- [ ] Extract document text
-- [ ] Create chunks
-- [ ] Generate embeddings
-- [ ] Store vectors
-- [ ] Retrieve relevant chunks
-- [ ] Send context to LLM
-- [ ] Generate answer
+- [x] Create a document knowledge base
+- [x] Extract document text
+- [x] Create chunks
+- [x] Generate embeddings
+- [x] Store vectors
+- [x] Retrieve relevant chunks
+- [x] Send context to LLM
+- [x] Generate answer
 
 
 ## 4. Agentic AI
 
-- [ ] What is an AI agent?
-- [ ] What is a tool?
-- [ ] Tool/function calling
-- [ ] Planning
-- [ ] Memory
-- [ ] State
-- [ ] Multi-step workflows
-- [ ] Human-in-the-loop
-- [ ] Agent orchestration
-- [ ] When agents are useful
-- [ ] When agents are unnecessary
+- [x] What is an AI agent?
+- [x] What is a tool?
+- [x] Tool/function calling
+- [x] Planning
+- [x] Memory
+- [x] State
+- [x] Multi-step workflows
+- [x] Human-in-the-loop
+- [x] Agent orchestration
+- [x] When agents are useful
+- [x] When agents are unnecessary
 
 ### Agent Practical
 - [ ] Build a simple agent
@@ -96,26 +96,26 @@
 
 ## 5. APIs
 
-- [ ] What is an API?
-- [ ] Client and server
-- [ ] Request and response
-- [ ] HTTP
-- [ ] GET
-- [ ] POST
-- [ ] PUT
-- [ ] PATCH
-- [ ] DELETE
-- [ ] HTTP status codes
-- [ ] Headers
-- [ ] Query parameters
-- [ ] Path parameters
-- [ ] Request body
-- [ ] JSON
-- [ ] REST API
-- [ ] API authentication
-- [ ] API keys
-- [ ] Calling APIs using Python
-- [ ] Testing APIs with Postman
+- [x] What is an API?
+- [x] Client and server
+- [x] Request and response
+- [x] HTTP
+- [x] GET
+- [x] POST
+- [x] PUT
+- [x] PATCH
+- [x] DELETE
+- [x] HTTP status codes
+- [x] Headers
+- [x] Query parameters
+- [x] Path parameters
+- [x] Request body
+- [x] JSON
+- [x] REST API
+- [x] API authentication
+- [x] API keys
+- [x] Calling APIs using Python
+- [x] Testing APIs with Postman
 
 
 ## 6. Cypress
@@ -216,9 +216,9 @@
 
 ## 12. Mini Projects
 
-- [ ] Project 1 – Simple LLM Application
-- [ ] Project 2 – RAG Application
-- [ ] Project 3 – Agentic Workflow
+- [x] Project 1 – Simple LLM Application
+- [x] Project 2 – RAG Application
+- [x] Project 3 – Agentic Workflow
 - [ ] Project 4 – Cypress Testing
 - [ ] Project 5 – Automation Workflow
 - [ ] Project 6 – SAP PM Conceptual Exercise
