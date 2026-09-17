@@ -83,15 +83,15 @@
 - [x] When agents are unnecessary
 
 ### Agent Practical
-- [ ] Build a simple agent
-- [ ] Create Tool 1
-- [ ] Create Tool 2
-- [ ] Create Tool 3
-- [ ] Agent selects the appropriate tool
-- [ ] Tool executes
-- [ ] Agent receives result
-- [ ] Agent interprets result
-- [ ] Agent produces final response
+- [x] Build a simple agent
+- [x] Create Tool 1
+- [x] Create Tool 2
+- [x] Create Tool 3
+- [x] Agent selects the appropriate tool
+- [x] Tool executes
+- [x] Agent receives result
+- [x] Agent interprets result
+- [x] Agent produces final response
 
 
 ## 5. APIs
