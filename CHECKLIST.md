@@ -120,19 +120,19 @@
 
 ## 6. Cypress
 
-- [ ] What is Cypress?
-- [ ] Why Cypress is used
-- [ ] Test cases
-- [ ] Test suites
-- [ ] Assertions
-- [ ] Selectors
-- [ ] Browser automation
-- [ ] End-to-end testing
-- [ ] Component testing
-- [ ] Test execution
-- [ ] Screenshots and logs
-- [ ] CI/CD integration
-- [ ] Build a basic Cypress test
+- [x] What is Cypress?
+- [x] Why Cypress is used
+- [x] Test cases
+- [x] Test suites
+- [x] Assertions
+- [x] Selectors
+- [x] Browser automation
+- [x] End-to-end testing
+- [x] Component testing
+- [x] Test execution
+- [x] Screenshots and logs
+- [x] CI/CD integration
+- [x] Build a basic Cypress test
 
 
 ## 7. Automation
