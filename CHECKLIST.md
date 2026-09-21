@@ -137,21 +137,21 @@
 
 ## 7. Automation
 
-- [ ] What is automation?
-- [ ] Trigger
-- [ ] Action
-- [ ] Condition
-- [ ] Workflow
-- [ ] API
-- [ ] Data transformation
-- [ ] Error handling
-- [ ] Logging
-- [ ] Notifications
-- [ ] Human approval
-- [ ] RPA
-- [ ] API-based automation
-- [ ] Workflow automation
-- [ ] API automation vs UI automation
+- [x] What is automation?
+- [x] Trigger
+- [x] Action
+- [x] Condition
+- [x] Workflow
+- [x] API
+- [x] Data transformation
+- [x] Error handling
+- [x] Logging
+- [x] Notifications
+- [x] Human approval
+- [x] RPA
+- [x] API-based automation
+- [x] Workflow automation
+- [x] API automation vs UI automation
 
 
 ## 8. C#
@@ -174,10 +174,10 @@
 
 ## 9. SAP Fundamentals
 
-- [ ] What is SAP?
-- [ ] SAP modules
-- [ ] Finance
-- [ ] Materials Management
+- [x] What is SAP?
+- [x] SAP modules
+- [x] Finance
+- [ x] Materials Management
 - [ ] Sales
 - [ ] Production
 - [ ] Plant Maintenance
