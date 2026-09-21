@@ -156,19 +156,19 @@
 
 ## 8. C#
 
-- [ ] Variables
-- [ ] Data types
-- [ ] Conditions
-- [ ] Loops
-- [ ] Methods
-- [ ] Classes
+- [x] Variables
+- [x] Data types
+- [x] Conditions
+- [x] Loops
+- [x] Methods
+- [x] Classes
 - [ ] Objects
 - [ ] Interfaces
 - [ ] Exception handling
 - [ ] Collections
 - [ ] LINQ basics
-- [ ] JSON
-- [ ] REST APIs
+- [x] JSON
+- [x] REST APIs
 - [ ] .NET basics
 
 
@@ -177,28 +177,28 @@
 - [x] What is SAP?
 - [x] SAP modules
 - [x] Finance
-- [ x] Materials Management
-- [ ] Sales
-- [ ] Production
-- [ ] Plant Maintenance
-- [ ] Human Resources
+- [x] Materials Management
+- [x] Sales
+- [x] Production
+- [x] Plant Maintenance
+- [x] Human Resources
 
 
 ## 10. SAP Plant Maintenance
 
-- [ ] Why SAP PM exists
-- [ ] Equipment
-- [ ] Functional Location
-- [ ] Maintenance Notification
-- [ ] Maintenance Order
-- [ ] Preventive Maintenance
-- [ ] Corrective Maintenance
-- [ ] Work Centre
-- [ ] Maintenance Plan
-- [ ] Maintenance Task List
-- [ ] Spare parts/materials
-- [ ] Maintenance history
-- [ ] Equipment vs Functional Location
+- [x] Why SAP PM exists
+- [x] Equipment
+- [x] Functional Location
+- [x] Maintenance Notification
+- [x] Maintenance Order
+- [x] Preventive Maintenance
+- [x] Corrective Maintenance
+- [x] Work Centre
+- [x] Maintenance Plan
+- [x] Maintenance Task List
+- [x] Spare parts/materials
+- [x] Maintenance history
+- [x] Equipment vs Functional Location
 
 
 ## 11. SAP + Automation + AI
